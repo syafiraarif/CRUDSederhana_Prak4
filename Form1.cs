@@ -17,7 +17,7 @@ namespace CRUDSederhana
 
         public Form1()
         {
-
+            InitializeComponent();
         }
 
 
