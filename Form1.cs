@@ -81,7 +81,8 @@ namespace CRUDSederhana
                     {
                         cmd.Parameters.AddWithValue("@NIM", txtNIM.Text.Trim());
                         cmd.Parameters.AddWithValue("@Nama", txtNama.Text.Trim());
-                        cmd.Parameters.AddWithValue("@Email",
+                        cmd.Parameters.AddWithValue("@Email", txtEmail.Text.Trim());
+
                     }
 
 
