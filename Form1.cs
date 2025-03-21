@@ -165,7 +165,7 @@ namespace CRUDSederhana
                  "Debugging DataGridView", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        private void dgvMahasiswa_CellClick
+        private void dgvMahasiswa_CellClick(object sender,
 
     }
 }
