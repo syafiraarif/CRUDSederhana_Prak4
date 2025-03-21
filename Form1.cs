@@ -122,7 +122,7 @@ namespace CRUDSederhana
 
                             using (SqlCommand cmd = new SqlCommand(query, conn))
                             {
-
+                                cmd.Parameters.AddWithValue()
                             }
 
                         }
