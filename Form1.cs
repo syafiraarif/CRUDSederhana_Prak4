@@ -126,7 +126,7 @@ namespace CRUDSederhana
 
                                 int rowsAffected = cmd.ExecuteNonQuery();
 
-                                if ()
+                                if (rowsAffected > 0)
                                 {
 
                                 }
