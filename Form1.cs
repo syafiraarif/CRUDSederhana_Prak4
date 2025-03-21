@@ -151,7 +151,7 @@ namespace CRUDSederhana
             }
             else 
             {
-                MessageBox.Show("Pilih data yang akan dihapus!",
+                MessageBox.Show("Pilih data yang akan dihapus!", "Peringatan",
             }
 
         }
