@@ -120,7 +120,7 @@ namespace CRUDSederhana
                             conn.Open();
                             string query = "DELETE FROM Mahasiswa WHERE NIM = @NIM";
 
-                            using (SqlCommand cmd = new SqlCommand())
+                            using (SqlCommand cmd = new SqlCommand(query, conn))
                             {
 
                             }
