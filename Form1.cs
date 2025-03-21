@@ -76,6 +76,7 @@ namespace CRUDSederhana
                     }
 
                     conn.Open();
+                    string query = 
 
 
                 }
