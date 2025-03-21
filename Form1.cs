@@ -167,7 +167,7 @@ namespace CRUDSederhana
 
         private void dgvMahasiswa_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if ()
+            if (e.RowIndex >= 0)
             {
 
             }
