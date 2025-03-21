@@ -134,7 +134,7 @@ namespace CRUDSederhana
                                 }
                                 else
                                 {
-                                    MessageBox.Show("Data tidak ditemukan atau gagal dihapus!",
+                                    MessageBox.Show("Data tidak ditemukan atau gagal dihapus!", "Kesalahan",
                                 }
                             }
 
