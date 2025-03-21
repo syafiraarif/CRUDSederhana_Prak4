@@ -126,9 +126,10 @@ namespace CRUDSederhana
 
                             }
 
-                            int rowsAffected = (){
+                            int rowsAffected = cmd.ExecuteNonQuery();
 
-                            }
+
+                        }
                         }
                     }
  
