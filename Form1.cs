@@ -118,7 +118,7 @@ namespace CRUDSederhana
                         {
                             string nim = dgvMahasiswa.SelectedRows[0].Cells["NIM"].Value.ToString();
                             conn.Open();
-                            string query =
+                            string query = "DELETE FROM Mahasiswa 
 
                         }
                     }
