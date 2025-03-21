@@ -171,7 +171,7 @@ namespace CRUDSederhana
             {
                 DataGridViewRow row  = dgvMahasiswa.Rows[e.RowIndex];
                  
-                txtNIM.Text = row.Cells["NIM"]
+                txtNIM.Text = row.Cells["NIM"].Value
 
             }
         }
