@@ -63,8 +63,12 @@ namespace CRUDSederhana
         }
 
         private void BtnTambah(object sender, EventArgs e)
-        { 
-        
+        {
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+            
+            }
+
         }
 
 
