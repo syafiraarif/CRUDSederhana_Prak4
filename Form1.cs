@@ -68,6 +68,10 @@ namespace CRUDSederhana
             {
                 try
                 {
+                    if (txtNIM.Text == "" || txtNama.Text == "" || txtEmail.Text == "" || txtTelepon.Text == "" || txtAlamat.Text == "")
+                    {
+
+                    }
 
                 }
 
