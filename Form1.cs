@@ -161,7 +161,7 @@ namespace CRUDSederhana
         {
             LoadData();
 
-            MessageBox.Show($)"Jumlah Kolom: 
+            MessageBox.Show($)"Jumlah Kolom: {dgvMahasiswa.ColumnCount}
 
         }
 
