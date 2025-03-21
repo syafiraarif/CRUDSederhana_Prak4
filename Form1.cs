@@ -102,12 +102,9 @@ namespace CRUDSederhana
 
                 }
 
-
-
             }
-
         }
 
-
+        private
     }
 }
