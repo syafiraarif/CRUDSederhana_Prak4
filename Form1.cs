@@ -110,7 +110,7 @@ namespace CRUDSederhana
             if (dgvMahasiswa.SelectedRows.Count > 0)
             {
                 DialogResult confirm = MessageBox.Show("Yakin ingin menghapus data ini?", "Konfirmasi", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if ()
+                if (confirm == DialogResult.Yes)
                 {
 
                 }
