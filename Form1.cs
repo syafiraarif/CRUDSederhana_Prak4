@@ -169,7 +169,7 @@ namespace CRUDSederhana
         {
             if (e.RowIndex >= 0)
             {
-                DataGridViewRow
+                DataGridViewRow row 
             }
         }
 
