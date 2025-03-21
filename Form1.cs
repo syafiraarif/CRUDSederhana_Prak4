@@ -161,7 +161,7 @@ namespace CRUDSederhana
         {
             LoadData();
 
-            MessageBox.Show
+            MessageBox.Show($)
 
         }
 
