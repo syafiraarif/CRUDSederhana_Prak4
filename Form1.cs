@@ -138,11 +138,10 @@ namespace CRUDSederhana
 
                                 }
                             }
+                        }
+                        catch ()
+                        {
 
-                           
-
-
-                        
                         }
                     }
  
