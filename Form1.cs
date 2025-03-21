@@ -40,8 +40,10 @@ namespace CRUDSederhana
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 try 
-                { 
-                
+                {
+                    conn.Open();
+
+
                 }
 
             }
