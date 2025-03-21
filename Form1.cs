@@ -179,7 +179,8 @@ namespace CRUDSederhana
             }
         }
 
-        private void textBox1_TextChanged
+        private void textBox1_TextChanged(object sender, EventArgs e)
+
 
 
     }
