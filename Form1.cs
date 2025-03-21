@@ -33,14 +33,12 @@ namespace CRUDSederhana
             txtTelepon.Clear();
             txtAlamat.Clear();
             txtNIM.Focus();
-
-
-
-
         }
 
+        private void LoadData()
+        { 
 
-
+        }
 
     }
 }
