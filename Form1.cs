@@ -97,6 +97,9 @@ namespace CRUDSederhana
                     }
                 }
                 catch(Exception ex)
+                {
+                    MessageBox.Show
+                }
 
 
 
