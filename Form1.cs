@@ -128,7 +128,7 @@ namespace CRUDSederhana
 
                                 if (rowsAffected > 0)
                                 {
-                                    MessageBox.Show
+                                    MessageBox.Show("Data berhasil dihapus!",
                                 }
                             }
 
