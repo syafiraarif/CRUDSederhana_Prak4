@@ -109,7 +109,7 @@ namespace CRUDSederhana
         {
             if (dgvMahasiswa.SelectedRows.Count > 0)
             {
-
+                DialogResult confirm =
             }
         }
 
