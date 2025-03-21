@@ -96,7 +96,7 @@ namespace CRUDSederhana
                         }
                     }
                 }
-                catch()
+                catch(Exception ex)
 
 
 
