@@ -15,6 +15,10 @@ namespace CRUDSederhana
     {
         private string connectionString = "Data Source=ASUS\\PIPIW;Initial Catalog=OrganisasiMahasiswa; Integrated Security=True";
 
+        public Form1()
+        {
+
+        }
 
 
     }
