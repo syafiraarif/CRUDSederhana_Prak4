@@ -29,6 +29,8 @@ namespace CRUDSederhana
         {
             txtNIM.Clear();
             txtNama.Clear();
+            txtEmail.Clear();
+
 
         }
 
