@@ -31,6 +31,8 @@ namespace CRUDSederhana
             txtNama.Clear();
             txtEmail.Clear();
             txtTelepon.Clear();
+            txtAlamat.Clear();
+
 
 
 
