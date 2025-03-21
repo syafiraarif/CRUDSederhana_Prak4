@@ -91,7 +91,7 @@ namespace CRUDSederhana
                         }
                         else
                         {
-                            MessageBox.Show("Data tidak berhasil ditambahkan!",
+                            MessageBox.Show("Data tidak berhasil ditambahkan!", "Kesalahan",
                         }
 
                     }
