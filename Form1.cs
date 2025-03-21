@@ -12,7 +12,9 @@ using System.Windows.Forms;
 namespace CRUDSederhana 
 {
     public partial class Form1 : Form
-    { 
-    
+    {
+        private string connectionString =
+
+
     }
 }
