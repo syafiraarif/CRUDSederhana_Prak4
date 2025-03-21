@@ -60,7 +60,13 @@ namespace CRUDSederhana
 
             }
 
-            }
+        }
+
+        private void BtnTambah(object sender, EventArgs e)
+        { 
+        
+        }
+
 
     }
 }
