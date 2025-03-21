@@ -77,6 +77,10 @@ namespace CRUDSederhana
 
                     conn.Open();
                     string query = "INSERT INTO Mahasiswa(NIM, Nama, Email, Telepon, Alamat) VALUES (@NIM, @Nama, @Email, @Telepon, @Alamat)";
+                    using (SqlCommand cmd = new SqlCommand(query, conn))
+                    {
+
+                    }
 
 
                 }
