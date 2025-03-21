@@ -162,7 +162,7 @@ namespace CRUDSederhana
             LoadData();
 
             MessageBox.Show($"Jumlah Kolom: {dgvMahasiswa.ColumnCount}\nJumlah Baris:{dgvMahasiswa.RowCount}",
-                 "Debugging DataGridView",
+                 "Debugging DataGridView", MessageBoxButtons.OK,
 
         }
 
