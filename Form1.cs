@@ -116,7 +116,7 @@ namespace CRUDSederhana
                     {
                         try
                         {
-                            string nim = dgvMahasiswa.SelectedRows[0].
+                            string nim = dgvMahasiswa.SelectedRows[0].Cells["NIM"].
                         }
                     }
  
