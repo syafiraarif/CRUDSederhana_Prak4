@@ -157,6 +157,7 @@ namespace CRUDSederhana
 
         }
 
-        private void BtnRefresh(object sender,
+        private void BtnRefresh(object sender, EventArgs e)
+
     }
 }
