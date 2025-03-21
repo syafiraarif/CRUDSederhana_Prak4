@@ -55,11 +55,8 @@ namespace CRUDSederhana
                 catch (Exception ex)
                 {
                     MessageBox.Show("Error: " + ex.Message, "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
                 }
-
             }
-
         }
 
         private void BtnTambah(object sender, EventArgs e)
@@ -85,6 +82,7 @@ namespace CRUDSederhana
                         cmd.Parameters.AddWithValue("@Telepon", txtTelepon.Text.Trim());
                         cmd.Parameters.AddWithValue("@Alamat", txtAlamat.Text.Trim());
 
+                        int rowsAffected =
                     }
 
 
